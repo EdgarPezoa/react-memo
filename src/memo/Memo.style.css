@@ -1,0 +1,19 @@
+.memo-child {
+	margin-top: 30px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+h1,
+h2,
+h3,
+h4 {
+	text-align: center;
+}
+
+.number-button {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
